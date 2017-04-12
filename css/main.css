@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Playfair Display', serif;
+  width: 100%;
+    margin: 0 auto;
+  }
+/*Landing page style*/
+header{
+  background-color: #5E1D31;
+  }
+header nav{
+  width:70%;
+  margin: 0 auto;
+}
+header nav h2{ 
+  display: inline-block;
+  font-size: 20px;
+  color: #9F8C52;
+  padding: 15px;
+  font-weight: bold;
+}
+header nav ul{
+  display: inline-block;
+  float: right;
+  margin-top: 17px;
+}
+header nav li{
+  display: inline-block;
+  padding-left: 40px;
+    padding-top: 18px;
+}
+header nav a {
+    color: #9F8C52;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+header nav a:hover{
+  text-decoration: none;  
+}
+header .glyphicon {
+    font-size: 75px;
+    color: #9F8C52;
+}
+header h1{
+  text-transform: uppercase;
+  display: inline-block;
+  padding-right: 85px;
+  line-height: 50px;
+    font-weight: bold;
+    color: #9F8C52;
+}
+header img{
+  width: 50%;
+}
+header div{
+  text-align: center;
+  margin: 40px;
+}
+span.glyphicon.glyphicon-option-horizontal {
+    text-align: center;
+    width: 100%;
+    font-size: 70px;
+    color: ;
+}
