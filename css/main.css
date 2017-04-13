@@ -15,7 +15,7 @@ header nav{
   width:70%;
   margin: 0 auto;
 }
-header nav h2{ 
+header nav h2{
   display: inline-block;
   font-size: 20px;
   color: #9F8C52;
@@ -54,7 +54,7 @@ header h1{
     color: #9F8C52;
 }
 header img{
-  width: 50%;
+  width: 25%;
 }
 header div{
   text-align: center;
@@ -65,4 +65,37 @@ span.glyphicon.glyphicon-option-horizontal {
     width: 100%;
     font-size: 70px;
     color: ;
+}
+.main div .col-md-4 {
+    text-align: center;
+    padding: 24px;
+}
+.main .container-fliud{
+  width: 70%;
+}
+#first-image img{ 
+  width: 70%;
+}
+#second-image img{
+    width: 70%;
+}
+#third-image img{
+  width: 70%;
+    /*padding-top: 12px;*/
+}
+div .main .col-md-4 img{
+  width:30%;
+}
+div .col-md-4 {
+  text-align: center;
+}
+div .col-md-4 h5{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.container-fluid .row{
+  margin-top: 20px;
+  padding: 40px;
+  width: 80%;
+    margin: 0 auto; 
 }
