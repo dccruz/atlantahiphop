@@ -99,3 +99,77 @@ div .col-md-4 h5{
   width: 80%;
     margin: 0 auto; 
 }
+
+/*Meet The ladies*/
+h1{
+  line-height: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.meetthecast p{
+  width: 35%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+}
+.meetthecast nav{
+  padding-top: 10px;
+    margin-top: 30px;
+}
+.meetthecast ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+.meetthecast li{
+  display: inline-block;
+  padding: 2%;
+}
+.meetthecast a{
+  padding: 10px 15px;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.meetthecast a:hover {
+  padding: 10px 15px;
+  text-decoration: none;
+  color: green;
+  text-transform: uppercase;
+}
+.meetthecast button{
+    padding: 5px;
+  border: none;
+    background-color: transparent; 
+    border-radius: 8px;
+}
+.meetthecast button:hover{
+  border: white;
+    background-color: white; 
+    border-radius: 8px;
+}
+.meetthecast .col-md-4 img {
+    width: 70%;
+}
+div#show-more {
+    text-align: center;
+    margin-top: 30px;
+}
+div#show-more button{
+    padding: 12px;
+    color: black;
+    border: white;
+    background-color: white;
+    border-radius: 8px;
+    font-weight: bold;
+}
+section.meetthecast{
+    background-color: black;
+    padding: 30px;
+    padding-bottom: 6%;
+}
