@@ -171,5 +171,37 @@ div#show-more button{
 section.meetthecast{
     background-color: black;
     padding: 30px;
-    padding-bottom: 6%;
+    padding-bottom: 6%;}
+    
+    /*dueling p */
+.template h4{
+  font-weight: bolder;  
+}
+.template p{
+  width: 93%;
+  padding: 10px 0;
+}
+.template img {
+    padding-top: 22px;
+}
+.template button{
+    padding: 12px;
+    color: white;
+    background-color: #99D2A5;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.template button#blue{
+    background-color: #A1D4DC;
+}
+hr{
+  width: 70%;
+  margin: 0 auto;
+    border-top: 1px solid #C5C5C5;
+}
+section.template {
+    background-color: #F0F0F0;
+    padding: 20px;
+}
 }
