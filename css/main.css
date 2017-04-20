@@ -99,6 +99,7 @@ div .col-md-4 h5{
   width: 80%;
     margin: 0 auto; 
 }
+
 /*Meet The ladies*/
 h1{
   line-height: 50px;
@@ -171,8 +172,7 @@ section.meetthecast{
     background-color: black;
     padding: 30px;
     padding-bottom: 6%;
-}
-/*dueling p */
+    /*dueling p */
 .template h4{
   font-weight: bolder;  
 }
@@ -203,38 +203,33 @@ section.template {
     background-color: #F0F0F0;
     padding: 20px;
 }
-/*guy cast */
-section.gentlemen{
-  background-color: #9F8C52;
+
+/*Recent Post Section*/
+section.recent-post{
+  background-image: url(../images/headerbackground.jpeg);
   padding: 40px 0;
 }
-.gentlemen p{
+.recent-post p{
   width: 35%;
     margin: 0 auto;
     text-align: center;
     font-size: 11px;
     color: white;
 }
-
-
-.gentlemen h6{
-  font-weight: bold;
-}
 .col-md-4 p {
-    color: grey;
+    color: #5E1D31;
     width: 92%;
-    font-size: 14px;
+    font-size: 12px;
     padding: 20px;
 }
-.gentlemen .col-md-4 div{
+.recent-post .col-md-4 div{
   background-color: white;
 }
-.gentlemen .row{
-  width: 70%;
+.recent-post .row{
+  width: 80%;
 }
-img#social {
-    padding: 0;
-    margin: 0;
-    width: 60%;
-    margin-bottom: 20px;
+ 
+.recent-post img{
+  width:200px;
+  height: 200px;
 }
