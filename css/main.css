@@ -296,3 +296,49 @@ section.recent-post{
   color: #38494C;
   font-weight: bold;
 }
+
+/*Footer*/
+
+.footer {
+  height: 75px;
+  padding: 0 13%;
+  background-color: #3B3B3B;
+  border-width: 70%;
+}
+
+.footer hr{
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-top: 1px solid #000;
+}
+.footer .fa-facebook, .footer .fa-google, .footer .fa-apple{
+  background-color: lightgrey;
+  border-radius: 50%;
+  border: none;
+  padding: 4px 7px;
+  float: left;
+  margin: auto 3px;
+}
+.footer .fa-twitter{
+  background-color: lightgrey;
+  border-radius: 50%;
+  border: none;
+  padding: 4px 6px;
+  float: left;
+  margin: auto 3px;
+  margin-left: 10%;
+
+}
+.footer a{
+  color: #3B3B3B;
+}
+.footer h6{
+  float: right;
+  color: #ccc;
+  margin-right: 10%;
+}
+.footer span{
+  color: #ccbc61;
+}
